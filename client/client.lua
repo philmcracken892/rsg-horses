@@ -46,6 +46,7 @@ CreateThread(function()
     end
 end)
 
+
 MenuData = {}
 TriggerEvent('rsg-menubase:getData', function(call)
     MenuData = call
